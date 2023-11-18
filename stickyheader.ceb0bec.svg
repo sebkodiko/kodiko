@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="208px" height="140px" viewBox="0 0 208 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Banners" transform="translate(-1362.000000, -1172.000000)">
+            <g id="Group" transform="translate(1362.000000, 1172.000000)">
+                <polygon id="Rectangle" fill="#DCDCDC" style="mix-blend-mode: multiply;" points="8.4 87.1959391 134.655636 14 207.2 16.8152284 203.508115 134.4 12.0975654 139.849746"></polygon>
+                <polygon id="Rectangle" fill="#DCDCDC" style="mix-blend-mode: multiply;" points="3.82002346e-12 0 193.2 2.8 192.308115 126 2.8 120.4"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" points="7.51287129 7.490701 196.887129 5.6 198.8 128.8 5.6 126.909299"></polygon>
+                <g id="Group-9" transform="translate(13.007874, 13.940426)">
+                    <ellipse id="Oval" fill="#FF7A34" cx="1.91811024" cy="1.90638298" rx="1.91811024" ry="1.90638298"></ellipse>
+                    <ellipse id="Oval" fill="#F4BD15" cx="7.67244094" cy="1.90638298" rx="1.91811024" ry="1.90638298"></ellipse>
+                    <ellipse id="Oval" fill="#80BC00" cx="13.4267717" cy="1.90638298" rx="1.91811024" ry="1.90638298"></ellipse>
+                </g>
+                <path d="M145.499403,54.6057339 C145.894927,54.1346304 146.254368,53.7353443 146.763233,53.2 L148.4,54.2204864 C147.811716,54.8393818 147.437774,55.2620161 146.948846,55.8584683 L148.4,57.1126821 L147.327064,58.8 L145.700597,57.3942661 C145.305073,57.8653696 144.945632,58.2646557 144.436767,58.8 L142.8,57.7795136 C143.388284,57.1606182 143.762226,56.7379839 144.251154,56.1415317 L142.8,54.8873179 L143.872936,53.2 L145.499403,54.6057339 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Rectangle" fill="#FF7A34" points="11.2 25.2 193.2 25.2 193.2 50.4 14 50.4"></polygon>
+                <rect id="Rectangle" fill="#DCDCDC" x="25.2" y="64.4" width="47.6" height="2.8"></rect>
+                <rect id="Rectangle" fill="#DCDCDC" x="25.2" y="72.8" width="47.6" height="2.8"></rect>
+                <polygon id="Rectangle" fill="#DCDCDC" points="25.2 81.2 72.8 81.2 72.8 84 25.2 84"></polygon>
+                <polygon id="Rectangle" fill="#DCDCDC" points="25.2 89.6 36.4 89.6 36.4 92.4 25.2 92.4"></polygon>
+                <rect id="Rectangle" fill="#DCDCDC" x="84" y="64.4" width="47.6" height="2.8"></rect>
+                <rect id="Rectangle" fill="#DCDCDC" x="84" y="72.8" width="47.6" height="2.8"></rect>
+                <polygon id="Rectangle" fill="#DCDCDC" points="84 81.2 131.6 81.2 131.6 84 84 84"></polygon>
+                <polygon id="Rectangle" fill="#DCDCDC" points="84 89.6 95.2 89.6 95.2 92.4 84 92.4"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
